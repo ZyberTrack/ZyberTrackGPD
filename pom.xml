@@ -5,14 +5,14 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>at.zybertrack</groupId>
-  <artifactId>ZyberTrackGPD-Spigot.1.20.2</artifactId>
+  <artifactId>GPD</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>ZyberTrackGPD-Spigot.1.20.2</name>
 
   <properties>
-    <java.version>1.8</java.version>
+    <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
@@ -63,7 +63,7 @@
   <dependencies>
       <dependency>
           <groupId>org.spigotmc</groupId>
-          <artifactId>spigot-api</artifactId>
+          <artifactId>spigot</artifactId>
           <version>1.20.2-R0.1-SNAPSHOT</version>
           <scope>provided</scope>
       </dependency>
