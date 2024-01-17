@@ -1,0 +1,4 @@
+name: ZyberTrackGPD-Spigot.1.20.2
+version: '${project.version}'
+main: org.example.zybertrackgpdspigot.ZyberTrackGPD_Spigot
+api-version: '1.20'
